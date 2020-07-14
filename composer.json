@@ -1,7 +1,7 @@
 {
   "name": "yireo/magento2-replace-bundled",
   "require": {
-    "magento/product-community-edition": "^2.3.5"
+    "magento/product-community-edition": "^2.3.5-p1.1"
   },
   "replace": {
     "amzn/amazon-pay-and-login-magento-2-module": "*",
@@ -9,8 +9,6 @@
     "amzn/amazon-pay-module": "*",
     "amzn/amazon-pay-sdk-php": "*",
     "amzn/login-with-amazon-module": "*",
-    "magento/module-braintree": "*",
-    "magento/module-braintree-graph-ql": "*",
     "braintree/braintree_php": "*",
     "braintree/braintree": "*",
     "dotmailer/dotmailer-magento2-extension": "*",
